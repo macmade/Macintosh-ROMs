@@ -2,9 +2,9 @@ Macintosh ROMs
 ==============
 
 [![Issues](http://img.shields.io/github/issues/macmade/Macintosh-ROMs.svg?style=flat)](https://github.com/macmade/Macintosh-ROMs/issues)
-![License](https://img.shields.io/badge/status-inactive-lightgray.svg?style=flat)
+![Status](https://img.shields.io/badge/status-inactive-lightgray.svg?style=flat)
 ![License](https://img.shields.io/badge/license-none-lightgray.svg?style=flat)
-[![License](https://img.shields.io/badge/contact-@macmade-blue.svg?style=flat)](https://twitter.com/macmade)
+[![Contact](https://img.shields.io/badge/contact-@macmade-blue.svg?style=flat)](https://twitter.com/macmade)
 
 About
 -----
