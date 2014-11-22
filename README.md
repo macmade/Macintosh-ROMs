@@ -1,6 +1,11 @@
 Macintosh ROMs
 ==============
 
+[![License](http://img.shields.io/github/issues/macmade/PIMPL.svg?style=flat)](https://github.com/macmade/Macintosh-ROMs/issues)
+![License](https://img.shields.io/badge/status-inactive-lightgray.svg?style=flat)
+![License](https://img.shields.io/badge/license-none-lightgray.svg?style=flat)
+[![License](https://img.shields.io/badge/contact-@macmade-blue.svg?style=flat)](https://twitter.com/macmade)
+
 About
 -----
 
